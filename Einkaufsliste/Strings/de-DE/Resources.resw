@@ -117,8 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AboutMenu.Content" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="EinkaufslistenMenu.Content" xml:space="preserve">
+    <value>Einkaufslisten</value>
+  </data>
   <data name="Einkaufslisten_Title.Text" xml:space="preserve">
     <value>Einkaufslisten</value>
+  </data>
+  <data name="EinstellungenMenu.Content" xml:space="preserve">
+    <value>Einstellungen</value>
   </data>
   <data name="Einstellungen_Title.Text" xml:space="preserve">
     <value>Einstellungen</value>
@@ -131,6 +140,9 @@
   </data>
   <data name="ElementName.Text" xml:space="preserve">
     <value>Name</value>
+  </data>
+  <data name="ErstellenMenu.Content" xml:space="preserve">
+    <value>Erstellen</value>
   </data>
   <data name="Layout.Content" xml:space="preserve">
     <value>Layout</value>

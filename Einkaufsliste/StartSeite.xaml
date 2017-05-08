@@ -16,10 +16,10 @@
         <SplitView.Pane>
             <StackPanel x:Name="Panel">
                 <Button x:Name="Hamburger" Click="Hamburger_Click" FontFamily="Segoe MDL2 Assets" Content="&#xE700;" Height="50" Width="50"/>
-                <RadioButton x:Name="Einkaufslisten" Click="Einkaufslisten_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE133;" Content="Einkaufslisten" GroupName="Navigation"/>
-                <RadioButton x:Name="Erstellen" Click="Erstellen_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE710;" Content="Erstellen" GroupName="Navigation"/>
-                <RadioButton x:Name="Einstellungen" Click="Einstellungen_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE713;" Content="Einstellungen" GroupName="Navigation"/>
-                <RadioButton x:Name="About" Click="About_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE946;" Content="About" GroupName="Navigation"/>
+                <RadioButton x:Name="EinkaufslistenMenu" x:Uid="EinkaufslistenMenu" Click="Einkaufslisten_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE133;" Content="Einkaufslisten" GroupName="Navigation"/>
+                <RadioButton x:Name="ErstellenMenu" x:Uid="ErstellenMenu" Click="Erstellen_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE710;" Content="Erstellen" GroupName="Navigation"/>
+                <RadioButton x:Name="EinstellungenMenu" x:Uid="EinstellungenMenu" Click="Einstellungen_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE713;" Content="Einstellungen" GroupName="Navigation"/>
+                <RadioButton x:Name="AboutMenu" x:Uid="AboutMenu" Click="About_Click" Style="{StaticResource NavRadioButtonStyle}" Tag="&#xE946;" Content="About" GroupName="Navigation"/>
             </StackPanel>
         </SplitView.Pane>
         <SplitView.Content>
