@@ -20,7 +20,7 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <TextBlock x:Name="Liste" Grid.Row="0" Grid.ColumnSpan="3" Text="Liste1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock x:Name="Liste" x:Uid="TempListe1" Grid.Row="0" Grid.ColumnSpan="3" Text="Liste1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <Grid Grid.Row="1" Grid.ColumnSpan="3">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="9*"/>
@@ -48,15 +48,15 @@
             <CheckBox Grid.Column="0" Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
             <CheckBox Grid.Column="0" Grid.Row="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" IsChecked="True"/>
             <CheckBox Grid.Column="0" Grid.Row="3" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" IsChecked="True"/>
-            <TextBlock Grid.Column="1"  Grid.Row="1" Text="Zucker" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-            <TextBlock Grid.Column="1" Grid.Row="2" Text="Gurken" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-            <TextBlock Grid.Column="1" Grid.Row="3" Text="Wasser" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock x:Uid="TempZucker" Grid.Column="1"  Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock x:Uid="TempGurken" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock x:Uid="TempWasser" Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left"/>
             <TextBlock Grid.Column="2"  Grid.Row="1" Text="500" VerticalAlignment="Center" HorizontalAlignment="Left"/>
             <TextBlock Grid.Column="2" Grid.Row="2" Text="3" VerticalAlignment="Center" HorizontalAlignment="Left"/>
             <TextBlock Grid.Column="2" Grid.Row="3" Text="5" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-            <TextBlock Grid.Column="3"  Grid.Row="1" Text="Gramm" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-            <TextBlock Grid.Column="3" Grid.Row="2" Text="Stück" VerticalAlignment="Center" HorizontalAlignment="Left"/>
-            <TextBlock Grid.Column="3" Grid.Row="3" Text="Liter" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock x:Uid="TempGramm" Grid.Column="3"  Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock x:Uid="TempStück" Grid.Column="3" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+            <TextBlock x:Uid="TempLiter" Grid.Column="3" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left"/>
         </Grid>
     </Grid>
 </Page>

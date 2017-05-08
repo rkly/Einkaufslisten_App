@@ -121,28 +121,28 @@
     <value>About</value>
   </data>
   <data name="EinkaufslistenMenu.Content" xml:space="preserve">
-    <value>Einkaufslisten</value>
+    <value>Shopping lists</value>
   </data>
   <data name="Einkaufslisten_Title.Text" xml:space="preserve">
-    <value>Einkaufslisten</value>
+    <value>Shopping lists</value>
   </data>
   <data name="EinstellungenMenu.Content" xml:space="preserve">
-    <value>Einstellungen</value>
+    <value>Configurations</value>
   </data>
   <data name="Einstellungen_Title.Text" xml:space="preserve">
-    <value>Einstellungen</value>
+    <value>Configurations</value>
   </data>
   <data name="ElementEinheit.Text" xml:space="preserve">
-    <value>Einheit</value>
+    <value>Unit</value>
   </data>
   <data name="ElementMenge.Text" xml:space="preserve">
-    <value>Menge</value>
+    <value>Amount</value>
   </data>
   <data name="ElementName.Text" xml:space="preserve">
     <value>Name</value>
   </data>
   <data name="ErstellenMenu.Content" xml:space="preserve">
-    <value>Erstellen</value>
+    <value>Create</value>
   </data>
   <data name="Layout.Content" xml:space="preserve">
     <value>Layout</value>
@@ -150,43 +150,16 @@
   <data name="ListeName.Text" xml:space="preserve">
     <value>Name</value>
   </data>
-  <data name="ListeSpeichern.Content" xml:space="preserve">
-    <value>Liste Speichern</value>
-  </data>
   <data name="NeueListe.Content" xml:space="preserve">
-    <value>Neue Liste</value>
-  </data>
-  <data name="NeuesElement.Content" xml:space="preserve">
-    <value>Neues Element</value>
+    <value>New List</value>
   </data>
   <data name="Sprache.Content" xml:space="preserve">
-    <value>Sprache</value>
+    <value>Language</value>
   </data>
   <data name="Suche.Text" xml:space="preserve">
-    <value>Suche</value>
-  </data>
-  <data name="TempGramm.Text" xml:space="preserve">
-    <value>Gramm</value>
-  </data>
-  <data name="TempGurken.Text" xml:space="preserve">
-    <value>Gurken</value>
-  </data>
-  <data name="TempListe1.Text" xml:space="preserve">
-    <value>Liste 1</value>
-  </data>
-  <data name="TempLiter.Text" xml:space="preserve">
-    <value>Liter</value>
-  </data>
-  <data name="TempStück.Text" xml:space="preserve">
-    <value>Stück</value>
-  </data>
-  <data name="TempWasser.Text" xml:space="preserve">
-    <value>Wasser</value>
-  </data>
-  <data name="TempZucker.Text" xml:space="preserve">
-    <value>Zucker</value>
+    <value>Search</value>
   </data>
   <data name="ZuletztGenutzt.Text" xml:space="preserve">
-    <value>Zuletzt genutzt</value>
+    <value>Recently used</value>
   </data>
 </root>

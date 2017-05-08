@@ -3,8 +3,8 @@
   <Identity Name="c48b5bf0-4402-489d-a9bc-13708fff4d38" Publisher="CN=roma2" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="c48b5bf0-4402-489d-a9bc-13708fff4d38" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Einkaufsliste</DisplayName>
-    <PublisherDisplayName>roma2</PublisherDisplayName>
+    <DisplayName>Einkaufslisten</DisplayName>
+    <PublisherDisplayName>Christian Lange, Roman Klymko</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -14,7 +14,7 @@
     <Resource Language="x-generate" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Einkaufsliste.App">
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Einkaufslisten.App">
       <uap:VisualElements DisplayName="Einkaufslisten_App" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="Einkaufslisten erstellen, bearbeiten, löschen" BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png">
         </uap:DefaultTile>

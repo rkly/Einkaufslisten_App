@@ -121,72 +121,72 @@
     <value>About</value>
   </data>
   <data name="EinkaufslistenMenu.Content" xml:space="preserve">
-    <value>Einkaufslisten</value>
+    <value>Списки покупок</value>
   </data>
   <data name="Einkaufslisten_Title.Text" xml:space="preserve">
-    <value>Einkaufslisten</value>
+    <value>Списки покупок</value>
   </data>
   <data name="EinstellungenMenu.Content" xml:space="preserve">
-    <value>Einstellungen</value>
+    <value>Налаштування</value>
   </data>
   <data name="Einstellungen_Title.Text" xml:space="preserve">
-    <value>Einstellungen</value>
+    <value>Налаштування</value>
   </data>
   <data name="ElementEinheit.Text" xml:space="preserve">
-    <value>Einheit</value>
+    <value>Одиниця</value>
   </data>
   <data name="ElementMenge.Text" xml:space="preserve">
-    <value>Menge</value>
+    <value>Кількість</value>
   </data>
   <data name="ElementName.Text" xml:space="preserve">
-    <value>Name</value>
+    <value>Назва товару</value>
   </data>
   <data name="ErstellenMenu.Content" xml:space="preserve">
-    <value>Erstellen</value>
+    <value>Створити</value>
   </data>
   <data name="Layout.Content" xml:space="preserve">
-    <value>Layout</value>
+    <value>Тема</value>
   </data>
   <data name="ListeName.Text" xml:space="preserve">
-    <value>Name</value>
+    <value>Назва списку</value>
   </data>
   <data name="ListeSpeichern.Content" xml:space="preserve">
-    <value>Liste Speichern</value>
+    <value>Зберегти список</value>
   </data>
   <data name="NeueListe.Content" xml:space="preserve">
-    <value>Neue Liste</value>
+    <value>Новий список</value>
   </data>
   <data name="NeuesElement.Content" xml:space="preserve">
-    <value>Neues Element</value>
+    <value>Новий товар</value>
   </data>
   <data name="Sprache.Content" xml:space="preserve">
-    <value>Sprache</value>
+    <value>Мова</value>
   </data>
   <data name="Suche.Text" xml:space="preserve">
-    <value>Suche</value>
+    <value>Пошук</value>
   </data>
   <data name="TempGramm.Text" xml:space="preserve">
-    <value>Gramm</value>
+    <value>Грам</value>
   </data>
   <data name="TempGurken.Text" xml:space="preserve">
-    <value>Gurken</value>
+    <value>Огірки</value>
   </data>
   <data name="TempListe1.Text" xml:space="preserve">
-    <value>Liste 1</value>
+    <value>Список 1</value>
   </data>
   <data name="TempLiter.Text" xml:space="preserve">
-    <value>Liter</value>
+    <value>Літр</value>
   </data>
   <data name="TempStück.Text" xml:space="preserve">
-    <value>Stück</value>
+    <value>Штук</value>
   </data>
   <data name="TempWasser.Text" xml:space="preserve">
-    <value>Wasser</value>
+    <value>Вода</value>
   </data>
   <data name="TempZucker.Text" xml:space="preserve">
-    <value>Zucker</value>
+    <value>Цукор</value>
   </data>
   <data name="ZuletztGenutzt.Text" xml:space="preserve">
-    <value>Zuletzt genutzt</value>
+    <value>Останній використаний</value>
   </data>
 </root>
