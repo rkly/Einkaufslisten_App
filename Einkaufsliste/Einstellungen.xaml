@@ -12,9 +12,9 @@
             <RowDefinition Height="30"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="0" Text="Einstellungen" Margin="5,5,5,5"/>
+        <TextBlock x:Name="Einstellungen_Title" x:Uid="Einstellungen_Title" Grid.Row="0" Text="Einstellungen" Margin="5,5,5,5"/>
         <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Top">
-            <Button Content="Sprache" Margin="5,5,5,5">
+            <Button x:Name="Sprache" x:Uid="Sprache" Content="Sprache" Margin="5,5,5,5">
                 <Button.Flyout>
                     <MenuFlyout>
                         <MenuFlyoutItem Text="Sprache 1"/>
@@ -23,7 +23,7 @@
                     </MenuFlyout>
                 </Button.Flyout>
             </Button>
-            <Button Content="Layout" Margin="5,5,5,5">
+            <Button x:Name="Layout" x:Uid="Layout" Content="Layout" Margin="5,5,5,5">
                 <Button.Flyout>
                     <MenuFlyout>
                         <MenuFlyoutItem Text="Layout 1"/>

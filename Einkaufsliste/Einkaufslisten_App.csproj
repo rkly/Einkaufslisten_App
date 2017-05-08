@@ -90,10 +90,14 @@
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
     <None Include="project.json" />
+    <PRIResource Include="Strings\de-DE\Resources.resw" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Einkaufsbereich.xaml.cs">
+      <DependentUpon>Einkaufsbereich.xaml</DependentUpon>
     </Compile>
     <Compile Include="Einkaufslisten.xaml.cs">
       <DependentUpon>Einkaufslisten.xaml</DependentUpon>
@@ -133,6 +137,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Einkaufsbereich.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Einkaufslisten.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
