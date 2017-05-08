@@ -17,18 +17,17 @@
             <Button x:Name="Sprache" x:Uid="Sprache" Content="Sprache" Margin="5,5,5,5">
                 <Button.Flyout>
                     <MenuFlyout>
-                        <MenuFlyoutItem Text="Sprache 1"/>
-                        <MenuFlyoutItem Text="Sprache 2"/>
-                        <MenuFlyoutItem Text="Sprache 3"/>
+                        <MenuFlyoutItem x:Uid="Deutsch"/>
+                        <MenuFlyoutItem x:Uid="Ukrainisch"/>
+                        <MenuFlyoutItem x:Uid="Englisch"/>
                     </MenuFlyout>
                 </Button.Flyout>
             </Button>
             <Button x:Name="Layout" x:Uid="Layout" Content="Layout" Margin="5,5,5,5">
                 <Button.Flyout>
                     <MenuFlyout>
-                        <MenuFlyoutItem Text="Layout 1"/>
-                        <MenuFlyoutItem Text="Layout 2"/>
-                        <MenuFlyoutItem Text="Layout 3"/>
+                        <MenuFlyoutItem x:Uid="Dark"/>
+                        <MenuFlyoutItem x:Uid="Light"/>
                     </MenuFlyout>
                 </Button.Flyout>
             </Button>

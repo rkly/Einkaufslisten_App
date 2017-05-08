@@ -20,7 +20,7 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <TextBlock x:Name="Liste" Grid.Row="0" Grid.ColumnSpan="3" Text="Liste1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock x:Name="Liste" x:Uid="TempListe1" Grid.Row="0" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <Grid Grid.Row="1" Grid.ColumnSpan="3">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="9*"/>
@@ -72,7 +72,7 @@
             <TextBlock x:Uid="ElementName" Grid.Column="0" Grid.Row="0" Text="Name" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <TextBlock x:Uid="ElementMenge" Grid.Column="1" Grid.Row="0" Text="Menge" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <TextBlock x:Uid="ElementEinheit" Grid.Column="2" Grid.Row="0" Text="Einheit" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-            <Button x:Name="ListeSpeichern" x:Uid="ListeSpeichern" Grid.Row="1" Grid.Column="2" Content="Liste Speichern" HorizontalAlignment="Stretch"/>
+            <Button x:Name="ListeSpeichern" x:Uid="ListeSpeichern" Grid.Row="1" Grid.ColumnSpan="3" Content="Liste Speichern" HorizontalAlignment="Stretch"/>
         </Grid>
     </Grid>
 </Page>

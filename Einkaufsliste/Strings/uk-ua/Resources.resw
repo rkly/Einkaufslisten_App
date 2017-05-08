@@ -120,6 +120,12 @@
   <data name="AboutMenu.Content" xml:space="preserve">
     <value>About</value>
   </data>
+  <data name="Dark.Text" xml:space="preserve">
+    <value>Темна</value>
+  </data>
+  <data name="Deutsch.Text" xml:space="preserve">
+    <value>Німецька</value>
+  </data>
   <data name="EinkaufslistenMenu.Content" xml:space="preserve">
     <value>Списки покупок</value>
   </data>
@@ -141,11 +147,17 @@
   <data name="ElementName.Text" xml:space="preserve">
     <value>Назва товару</value>
   </data>
+  <data name="Englisch.Text" xml:space="preserve">
+    <value>Англійська</value>
+  </data>
   <data name="ErstellenMenu.Content" xml:space="preserve">
     <value>Створити</value>
   </data>
   <data name="Layout.Content" xml:space="preserve">
     <value>Тема</value>
+  </data>
+  <data name="Light.Text" xml:space="preserve">
+    <value>Світла</value>
   </data>
   <data name="ListeName.Text" xml:space="preserve">
     <value>Назва списку</value>
@@ -171,6 +183,15 @@
   <data name="TempGurken.Text" xml:space="preserve">
     <value>Огірки</value>
   </data>
+  <data name="TempL1.Text" xml:space="preserve">
+    <value>Список 1</value>
+  </data>
+  <data name="TempL2.Text" xml:space="preserve">
+    <value>Список 2</value>
+  </data>
+  <data name="TempL3.Text" xml:space="preserve">
+    <value>Список 3</value>
+  </data>
   <data name="TempListe1.Text" xml:space="preserve">
     <value>Список 1</value>
   </data>
@@ -185,6 +206,9 @@
   </data>
   <data name="TempZucker.Text" xml:space="preserve">
     <value>Цукор</value>
+  </data>
+  <data name="Ukrainisch.Text" xml:space="preserve">
+    <value>Українська</value>
   </data>
   <data name="ZuletztGenutzt.Text" xml:space="preserve">
     <value>Останній використаний</value>

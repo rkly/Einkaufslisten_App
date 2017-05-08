@@ -120,6 +120,12 @@
   <data name="AboutMenu.Content" xml:space="preserve">
     <value>About</value>
   </data>
+  <data name="Dark.Text" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="Deutsch.Text" xml:space="preserve">
+    <value>Deutsch</value>
+  </data>
   <data name="EinkaufslistenMenu.Content" xml:space="preserve">
     <value>Einkaufslisten</value>
   </data>
@@ -141,11 +147,17 @@
   <data name="ElementName.Text" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Englisch.Text" xml:space="preserve">
+    <value>Englisch</value>
+  </data>
   <data name="ErstellenMenu.Content" xml:space="preserve">
     <value>Erstellen</value>
   </data>
   <data name="Layout.Content" xml:space="preserve">
     <value>Layout</value>
+  </data>
+  <data name="Light.Text" xml:space="preserve">
+    <value>Hell</value>
   </data>
   <data name="ListeName.Text" xml:space="preserve">
     <value>Name</value>
@@ -171,6 +183,15 @@
   <data name="TempGurken.Text" xml:space="preserve">
     <value>Gurken</value>
   </data>
+  <data name="TempL1.Text" xml:space="preserve">
+    <value>Liste 1</value>
+  </data>
+  <data name="TempL2.Text" xml:space="preserve">
+    <value>Liste 2</value>
+  </data>
+  <data name="TempL3.Text" xml:space="preserve">
+    <value>Liste 3</value>
+  </data>
   <data name="TempListe1.Text" xml:space="preserve">
     <value>Liste 1</value>
   </data>
@@ -185,6 +206,9 @@
   </data>
   <data name="TempZucker.Text" xml:space="preserve">
     <value>Zucker</value>
+  </data>
+  <data name="Ukrainisch.Text" xml:space="preserve">
+    <value>Ukrainisch</value>
   </data>
   <data name="ZuletztGenutzt.Text" xml:space="preserve">
     <value>Zuletzt genutzt</value>
