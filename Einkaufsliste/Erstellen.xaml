@@ -12,7 +12,7 @@
             <RowDefinition Height="30"/>
             <RowDefinition Height="30"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="30"/>
+            <!--<RowDefinition Height="30"/>-->
             <RowDefinition Height="60"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
@@ -58,7 +58,7 @@
             <Button x:Name="LöscheElement2" Grid.Row="2" Grid.Column="3" Content="-" VerticalAlignment="Center" HorizontalAlignment="Stretch"/>
             <Button x:Name="LöscheElement3" Grid.Row="3" Grid.Column="3" Content="-" VerticalAlignment="Center" HorizontalAlignment="Stretch"/>
         </Grid>
-        <Button x:Name="NeuesElement" x:Uid="NeuesElement" Grid.Row="3" Grid.ColumnSpan="3" Content="Neues Element" HorizontalAlignment="Stretch"/>
+        <!--<Button x:Name="NeuesElement" x:Uid="NeuesElement" Grid.Row="3" Grid.ColumnSpan="3" Content="Neues Element" HorizontalAlignment="Stretch"/>-->
         <Grid Grid.Row="4" Grid.ColumnSpan="3">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
