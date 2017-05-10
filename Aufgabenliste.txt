@@ -1,0 +1,30 @@
+Aufgaben
+
+Designs (Roman)
+Mehrsprachlichkeit 
+Datenbank (Christian)
+Datenbankanbindung (Christian)
+Views
+Events
+Login (Christian)
+Logout (Christian)
+Autocomplete
+UML-Plan (Roman)
+ Ablaufdiagramm
+	Nutzer erstellt neue List
+	"""" Löscht Liste
+	Sortiert Liste
+	Ändert Liste
+	neue Produkte hinzufügen
+	alte Produkte bearbeiten
+	Produkte Löschen
+	neue Produkte in Datenbank aufnehmen
+	Nutzer wechselt Sprache und damit auch Design
+	Nutzer kauft ein
+	Nutzer hakt Produkte ab
+	Nutzer enthakt Produkte
+	Nutzer möchte Einkaufsliste ändern
+	Nutzer beendet Einkauf
+	Nutzer beendet App und möchte später den Einkauf fortsetzen -> Zustand muss gespeichert werden
+	
+	
