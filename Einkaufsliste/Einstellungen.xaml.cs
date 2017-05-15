@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Windows.Globalization;
 
 // The User Control item template is documented at http://go.microsoft.com/fwlink/?LinkId=234236
 
@@ -22,6 +23,13 @@ namespace Einkaufslisten_App
         public Einstellungen()
         {
             this.InitializeComponent();
+        }
+
+        private void MenuFlyoutItem_Click(object sender, RoutedEventArgs e)
+        {
+            MenuFlyoutItem _MenuFlyoutItem = (MenuFlyoutItem)sender;
+            ApplicationLanguages.PrimaryLanguageOverride = _MenuFlyoutItem.Tag.ToString();
+            Frame.Navigate(this.GetType());
         }
     }
 }

@@ -17,9 +17,9 @@
             <Button x:Name="Sprache" x:Uid="Sprache" Content="Sprache" Margin="5,5,5,5">
                 <Button.Flyout>
                     <MenuFlyout>
-                        <MenuFlyoutItem x:Uid="Deutsch"/>
-                        <MenuFlyoutItem x:Uid="Ukrainisch"/>
-                        <MenuFlyoutItem x:Uid="Englisch"/>
+                        <MenuFlyoutItem x:Uid="Deutsch" Click="MenuFlyoutItem_Click" Tag="de-de"/>
+                        <MenuFlyoutItem x:Uid="Ukrainisch" Click="MenuFlyoutItem_Click" Tag="uk-ua"/>
+                        <MenuFlyoutItem x:Uid="Englisch" Click="MenuFlyoutItem_Click" Tag="en-us"/>
                     </MenuFlyout>
                 </Button.Flyout>
             </Button>
