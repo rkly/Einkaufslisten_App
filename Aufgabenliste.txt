@@ -6,25 +6,25 @@ Datenbank (Christian)
 Datenbankanbindung (Christian)
 Views
 Events
-Login (Christian)
-Logout (Christian)
+Login (Roman)
+Logout (Roman)
 Autocomplete
-UML-Plan (Roman)
+UML-Plan (Christian)
  Ablaufdiagramm
-	Nutzer erstellt neue List
-	"""" Löscht Liste
-	Sortiert Liste
-	Ändert Liste
-	neue Produkte hinzufügen
-	alte Produkte bearbeiten
-	Produkte Löschen
-	neue Produkte in Datenbank aufnehmen
-	Nutzer wechselt Sprache und damit auch Design
-	Nutzer kauft ein
-	Nutzer hakt Produkte ab
-	Nutzer enthakt Produkte
-	Nutzer möchte Einkaufsliste ändern
-	Nutzer beendet Einkauf
-	Nutzer beendet App und möchte später den Einkauf fortsetzen -> Zustand muss gespeichert werden
+	Nutzer erstellt neue List 			done
+	"""" Löscht Liste         			done
+	Sortiert Liste            			done (via XAML)
+	Ändert Liste              			done
+	neue Produkte hinzufügen  			done
+	alte Produkte bearbeiten  			done
+	Produkte Löschen	  			done
+	neue Produkte in Datenbank aufnehmen 		done
+	Nutzer wechselt Sprache und damit auch Design	done
+	Nutzer kauft ein				done, wie Nutzer lädt Listenansicht
+	Nutzer hakt Produkte ab				done (via XAML)
+	Nutzer enthakt Produkte				done
+	Nutzer möchte Einkaufsliste ändern		???
+	Nutzer beendet Einkauf				done
+	Nutzer beendet App und möchte später den Einkauf fortsetzen -> Zustand muss gespeichert werden done
 	
 	
